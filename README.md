@@ -17,7 +17,7 @@ This Power BI project analyzes customer data (age, gender, country, spending sco
  📁 Files
 - `customers_dashboard.pbix` – Main dashboard
 - `customer_analysis_report.pdf` – Final report
-- `cleaned_customer_dataset.csv` – Cleaned source file (optional)
+- `cleaned_customer_dataset.csv` – Cleaned source file 
 
 ---
 
